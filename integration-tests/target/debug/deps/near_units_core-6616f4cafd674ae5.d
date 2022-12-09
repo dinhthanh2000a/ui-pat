@@ -1,0 +1,9 @@
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/integration-tests/target/debug/deps/near_units_core-6616f4cafd674ae5.rmeta: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/integration-tests/target/debug/deps/near_units_core-6616f4cafd674ae5.d: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs:

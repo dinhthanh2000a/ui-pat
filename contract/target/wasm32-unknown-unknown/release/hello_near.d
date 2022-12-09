@@ -1,0 +1,1 @@
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/contract/src/lib.rs

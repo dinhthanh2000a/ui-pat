@@ -1,0 +1,10 @@
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/contract/target/wasm32-unknown-unknown/release/deps/bs58-b0e222145d7e2db9.rmeta: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/alphabet.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/decode.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/encode.rs
+
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/contract/target/wasm32-unknown-unknown/release/deps/libbs58-b0e222145d7e2db9.rlib: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/alphabet.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/decode.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/encode.rs
+
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/test-app/contract/target/wasm32-unknown-unknown/release/deps/bs58-b0e222145d7e2db9.d: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/alphabet.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/decode.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/encode.rs
+
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/lib.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/alphabet.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/decode.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/bs58-0.4.0/src/encode.rs:
